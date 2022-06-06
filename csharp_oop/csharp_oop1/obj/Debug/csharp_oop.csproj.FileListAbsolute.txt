@@ -1,0 +1,8 @@
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\csharp_oop\csharp_oop\obj\Debug\csharp_oop.csproj.AssemblyReference.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\csharp_oop\csharp_oop\obj\Debug\csharp_oop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\csharp_oop\csharp_oop\obj\Debug\csharp_oop.csproj.CoreCompileInputs.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\csharp_oop\csharp_oop\bin\Debug\csharp_oop.exe.config
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\csharp_oop\csharp_oop\bin\Debug\csharp_oop.exe
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\csharp_oop\csharp_oop\bin\Debug\csharp_oop.pdb
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\csharp_oop\csharp_oop\obj\Debug\csharp_oop.exe
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\csharp_oop\csharp_oop\obj\Debug\csharp_oop.pdb

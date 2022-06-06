@@ -1,0 +1,8 @@
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Username_Pwd\Username_Pwd\bin\Debug\Username_Pwd.exe.config
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Username_Pwd\Username_Pwd\bin\Debug\Username_Pwd.exe
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Username_Pwd\Username_Pwd\bin\Debug\Username_Pwd.pdb
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Username_Pwd\Username_Pwd\obj\Debug\Username_Pwd.csproj.AssemblyReference.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Username_Pwd\Username_Pwd\obj\Debug\Username_Pwd.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Username_Pwd\Username_Pwd\obj\Debug\Username_Pwd.csproj.CoreCompileInputs.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Username_Pwd\Username_Pwd\obj\Debug\Username_Pwd.exe
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Username_Pwd\Username_Pwd\obj\Debug\Username_Pwd.pdb

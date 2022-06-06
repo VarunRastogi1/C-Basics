@@ -1,0 +1,8 @@
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\MultidimensionalArray\MultidimensionalArray\obj\Debug\MultidimensionalArray.csproj.AssemblyReference.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\MultidimensionalArray\MultidimensionalArray\obj\Debug\MultidimensionalArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\MultidimensionalArray\MultidimensionalArray\obj\Debug\MultidimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\MultidimensionalArray\MultidimensionalArray\bin\Debug\MultidimensionalArray.exe.config
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\MultidimensionalArray\MultidimensionalArray\bin\Debug\MultidimensionalArray.exe
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\MultidimensionalArray\MultidimensionalArray\bin\Debug\MultidimensionalArray.pdb
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\MultidimensionalArray\MultidimensionalArray\obj\Debug\MultidimensionalArray.exe
+C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\MultidimensionalArray\MultidimensionalArray\obj\Debug\MultidimensionalArray.pdb
