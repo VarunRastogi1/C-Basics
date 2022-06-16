@@ -9,7 +9,9 @@ namespace EmployeeDetails
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {                      
+            UserLogin.GetUserCredentialsAndLogin();
+            Console.ReadLine();
         }
     }
 }
