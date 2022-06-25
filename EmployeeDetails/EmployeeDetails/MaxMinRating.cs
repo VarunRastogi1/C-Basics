@@ -6,42 +6,29 @@ using System.Threading.Tasks;
 
 namespace EmployeeDetails
 {
-    public class MaxMinRating
+    public class MaxMinRating: RatingArray
     {
-        int numEmp;
-        int[] arrRating = new int[100];
-        public void GetDetails()
-        {
-
-            Console.WriteLine("Enter number of employees");
-            numEmp = int.Parse(Console.ReadLine());
-            
-            for (int i = 0; i < numEmp; i++)
-            {
-                Console.WriteLine("Enter rating of employee {0}", i + 1);
-                arrRating[i] = int.Parse(Console.ReadLine());
-            }
-        }
+        
         public void ShowMaxRating()
         {
-            int maxRating = arrRating[0];
-            for (int i = 0; i < numEmp; i++)
+            int MaxRating = Arr[0];
+            for (int i = 0; i < NumEmp; i++)
             {
-                if (maxRating < arrRating[i])
+                if (MaxRating < Arr[i])
                 {
-                    maxRating = arrRating[i];
+                    MaxRating = Arr[i];
                 }
             }
-            Console.WriteLine("Maximum Rating={0}", maxRating);
+            Console.WriteLine("Maximum Rating={0}", MaxRating);
         }
         public void ShowMinRating()
         {
-            int minRating = arrRating[0];
-            for (int i = 0; i < numEmp; i++)
+            int minRating = Arr[0];
+            for (int i = 0; i < NumEmp; i++)
             {
-                if (minRating > arrRating[i])
+                if (minRating > Arr[i])
                 {
-                    minRating = arrRating[i];
+                    minRating = Arr[i];
                 }
             }
             Console.WriteLine(" Minimum Rating={0}", minRating);

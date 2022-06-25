@@ -20,25 +20,23 @@ namespace EmployeeDetails
 
             Console.WriteLine("Your rating is: " + Rating.AppraisalFunction(factor));
 
-            RatingRange Emp1= new RatingRange(); 
-            Emp1.GetRangeDetails();
-            Emp1.CalculatePossibleFactors();
+            RatingRange emp1= new RatingRange(); 
+            emp1.GetRangeDetails();
+            emp1.CalculatePossibleFactors();
 
-            RatingArray Emp2 = new RatingArray();
-            Emp2.GetEmployeeCount();
-            Emp2.GetRatings();
-            Emp2.ShowEnteredData();
-            Emp2.ShowReverseData();
+            MaxMinRating emp2 = new MaxMinRating();
+            
+            emp2.GetEmployeeCount();
+            emp2.GetRatings();
+            emp2.ShowEnteredData();
+            emp2.ShowReverseData();
+            emp2.ShowMinRating();
+            emp2.ShowMaxRating();
 
-            MaxMinRating Emp3 = new MaxMinRating();
-            Emp3.GetDetails();
-            Emp3.ShowMinRating();
-            Emp3.ShowMaxRating();
-
-            CopyLastRating Emp4 = new CopyLastRating();
-            Emp4.GetLastYearRating();
-            Emp4.CopyRating();
-            Emp4.ShowThisYearRating();
+            CopyLastRating emp4 = new CopyLastRating();
+            emp4.GetLastYearRating();
+            emp4.CopyRating();
+            emp4.ShowThisYearRating();
 
             Console.ReadLine();
         }

@@ -43,9 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalculatingFactor.cs" />
+    <Compile Include="CopyLastRatings.cs" />
+    <Compile Include="MaxMinRating.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UsernamePwd.cs" />
+    <Compile Include="Rating.cs" />
+    <Compile Include="RatingArray.cs" />
+    <Compile Include="RatingRange.cs" />
+    <Compile Include="UserLogin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

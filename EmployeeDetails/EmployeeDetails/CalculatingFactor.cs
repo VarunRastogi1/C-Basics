@@ -9,32 +9,32 @@ namespace EmployeeDetails
     public class GetDetailsAndCalculateFactor
     {
 
-        int factor1;
-        int factor2;
-        string operation;
+        int Factor1;
+        int Factor2;
+        string Operation;
         public void GetfactorDetails() { 
                 
             Console.WriteLine("Enter factor1");
-            factor1 = Convert.ToInt32(Console.ReadLine());
+            Factor1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter factor2");          
-            factor2 = Convert.ToInt32(Console.ReadLine());
+            Factor2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the operation you want to perform");
-            operation = Console.ReadLine();
+            Operation = Console.ReadLine();
         }
         public int CalculateFactor() {
-            switch (operation)
+            switch (Operation)
             {
                 case "+":
-                    return  factor1 + factor2;
+                    return  Factor1 + Factor2;
                     
                 case "-":
-                    return factor1 - factor2;
+                    return Factor1 - Factor2;
                     
                 case "*":
-                    return factor1 * factor2;
+                    return Factor1 * Factor2;
                     
                 case "/":
-                    return factor1 / factor2;
+                    return Factor1 / Factor2;
                     
                 default:
                     return 0;                   
