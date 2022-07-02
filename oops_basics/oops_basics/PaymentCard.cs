@@ -21,11 +21,18 @@ namespace oops_basics
 
         public void EatLunch()
         {
-            OpeningBalance -= 10.60;
+            if (OpeningBalance >= 10.60)
+            {
+                OpeningBalance -= 10.60;
+            }
         }
         public void DrinkCoffee()
         {
-            OpeningBalance -= 2;
+            if (OpeningBalance >= 2)
+            {
+                OpeningBalance -= 2;
+            }
+            
         }
     }
 }
