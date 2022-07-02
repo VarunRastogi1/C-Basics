@@ -6,7 +6,18 @@ namespace oopsbasics
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string myTitle="book";
+            int myPageCount;
+            int myPublicationYear;
+
+            for(int i=0; myTitle == "";i++)
+            {
+                myTitle = Console.ReadLine();
+                myPageCount= int.Parse(Console.ReadLine());
+                myPublicationYear= int.Parse(Console.ReadLine());
+                Book myBook = new Book(myTitle, myPageCount, myPublicationYear);
+            }
+
         }
     }
 }
