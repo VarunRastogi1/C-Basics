@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-namespace oopsbasics
+namespace oops_basics
 {
     public class Program
     {
@@ -18,8 +18,13 @@ namespace oopsbasics
                 Book myBook = new Book(myTitle, myPageCount, myPublicationYear);
             }
 
-        }
+
+            var card = new PaymentCard(15);
+            card.EatLunch();
+            card.DrinkCoffee();
+            Console.WriteLine(card.ToString());
+
+            card.ChargeCard(10);
+        }       
     }
 }
-
-
