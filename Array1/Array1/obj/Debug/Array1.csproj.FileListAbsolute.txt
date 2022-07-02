@@ -1,8 +1,0 @@
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array1\Array1\obj\Debug\Array1.csproj.AssemblyReference.cache
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array1\Array1\obj\Debug\Array1.csproj.SuggestedBindingRedirects.cache
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array1\Array1\obj\Debug\Array1.csproj.CoreCompileInputs.cache
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array1\Array1\bin\Debug\Array1.exe.config
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array1\Array1\bin\Debug\Array1.exe
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array1\Array1\bin\Debug\Array1.pdb
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array1\Array1\obj\Debug\Array1.exe
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array1\Array1\obj\Debug\Array1.pdb
