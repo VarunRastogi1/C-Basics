@@ -8,8 +8,8 @@ namespace oops_basics
 {
     public class PaymentCard
     {
-        public int OpeningBalance { get; set; }
-        public PaymentCard(int openingBalance)
+        public double OpeningBalance { get; set; }
+        public PaymentCard(double openingBalance)
         {
             OpeningBalance = openingBalance;    
         }
@@ -17,6 +17,15 @@ namespace oops_basics
         public override string ToString()
         {
             return $"The card has a balance of {OpeningBalance} Euros";
+        }
+
+        public void EatLunch()
+        {
+            OpeningBalance -= 10.60;
+        }
+        public void DrinkCoffee()
+        {
+            OpeningBalance -= 2;
         }
     }
 }
