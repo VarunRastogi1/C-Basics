@@ -1,7 +1,0 @@
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Arithmetic_Advance\Arithmetic_Advance\bin\Debug\Arithmetic_Advance.exe.config
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Arithmetic_Advance\Arithmetic_Advance\bin\Debug\Arithmetic_Advance.exe
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Arithmetic_Advance\Arithmetic_Advance\bin\Debug\Arithmetic_Advance.pdb
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Arithmetic_Advance\Arithmetic_Advance\obj\Debug\Arithmetic_Advance.csproj.SuggestedBindingRedirects.cache
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Arithmetic_Advance\Arithmetic_Advance\obj\Debug\Arithmetic_Advance.csproj.CoreCompileInputs.cache
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Arithmetic_Advance\Arithmetic_Advance\obj\Debug\Arithmetic_Advance.exe
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Arithmetic_Advance\Arithmetic_Advance\obj\Debug\Arithmetic_Advance.pdb
