@@ -6,7 +6,12 @@ namespace oops_basics
     {
         public static void Main(string[] args)
         {
-             var card = new PaymentCard(100);
-        }
+            var card = new PaymentCard(15);
+            card.EatLunch();
+            card.DrinkCoffee();
+            Console.WriteLine(card.ToString());
+
+            card.ChargeCard(10);
+        }       
     }
 }
