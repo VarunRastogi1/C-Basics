@@ -1,0 +1,8 @@
+C:\Users\ashit\OneDrive\Desktop\projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\ashit\OneDrive\Desktop\projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+C:\Users\ashit\OneDrive\Desktop\projects\EmployeeDetails\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+C:\Users\ashit\OneDrive\Desktop\projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.AssemblyReference.cache
+C:\Users\ashit\OneDrive\Desktop\projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\ashit\OneDrive\Desktop\projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\ashit\OneDrive\Desktop\projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\ashit\OneDrive\Desktop\projects\EmployeeDetails\EmployeeDetails\obj\Debug\EmployeeDetails.pdb

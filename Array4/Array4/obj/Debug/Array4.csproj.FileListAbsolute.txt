@@ -1,8 +1,0 @@
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array4\Array4\bin\Debug\Array4.exe.config
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array4\Array4\bin\Debug\Array4.exe
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array4\Array4\bin\Debug\Array4.pdb
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array4\Array4\obj\Debug\Array4.csproj.AssemblyReference.cache
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array4\Array4\obj\Debug\Array4.csproj.SuggestedBindingRedirects.cache
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array4\Array4\obj\Debug\Array4.csproj.CoreCompileInputs.cache
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array4\Array4\obj\Debug\Array4.exe
-C:\Users\ashit\OneDrive\Desktop\C#Hands-On\projects\Array4\Array4\obj\Debug\Array4.pdb
