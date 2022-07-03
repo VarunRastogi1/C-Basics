@@ -8,7 +8,7 @@ namespace oops_basics
     {
         public static void Main(string[] args)
         {
-            string myTitle="book";
+            string myTitle;
             int myPageCount;
             int myPublicationYear;
 
