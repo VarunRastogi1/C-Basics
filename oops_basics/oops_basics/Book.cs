@@ -19,6 +19,12 @@ namespace oops_basics
             PageCount= pageCount;
             PublicationYear= publicationYear;
         }
+        public override string ToString()
+        {
+            return $"Title: {Title} PageCount: {PageCount} PublicationYear: { PublicationYear}";
+        }
+
+        
 
     }
 }
