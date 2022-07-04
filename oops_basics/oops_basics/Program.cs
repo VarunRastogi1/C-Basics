@@ -8,6 +8,30 @@ namespace oops_basics
     {
         public static void Main(string[] args)
         {
+            string myName;
+            int myDuration = 0;
+            List<Television> televisions = new List<Television>();
+
+            while (true)
+            {
+                myName = Console.ReadLine();
+                if (myName == "")
+                {
+                    break;
+                }
+                myDuration = int.Parse(Console.ReadLine());
+                Television myTelevision = new Television(myName, myDuration);
+                televisions.Add(myTelevision);
+            }
+            Console.WriteLine("Maximum Duration");
+            int max = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i < televisions.Count; i++)
+            {
+                if (televisions[i].Duration <= max)
+                {
+                    Console.WriteLine($"Title: {televisions[i].Name} Duration: {televisions[i].Duration}");
+                }
+            }
             string myTitle;
             int myPageCount;
             int myPublicationYear;
