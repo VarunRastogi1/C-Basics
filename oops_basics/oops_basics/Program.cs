@@ -8,6 +8,12 @@ namespace oops_basics
     {
         public static void Main(string[] args)
         {
+
+        
+            Student s1 = new Student(1, "VARUN", "RASTOGI", 9, "BTECH");
+            ShowDetails(s1);
+            Console.ReadLine();
+        
             string myName;
             int myDuration = 0;
             List<Television> televisions = new List<Television>();
@@ -32,6 +38,7 @@ namespace oops_basics
                     Console.WriteLine($"Title: {televisions[i].Name} Duration: {televisions[i].Duration}");
                 }
             }
+
             string myTitle;
             int myPageCount;
             int myPublicationYear;
@@ -72,6 +79,10 @@ namespace oops_basics
             Console.WriteLine(card.ToString());
             card.ChargeCard(10);
             Console.ReadLine();
-        }       
+        }
+        public static void ShowDetails(Student s1)
+        {
+            Console.WriteLine("Name: " + s1.FirstName + " " + s1.LastName + " GPA: " + s1.GPA);
+        }
     }
 }
