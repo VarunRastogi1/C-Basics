@@ -8,8 +8,17 @@ namespace oops_basics
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Enter Year");
+            int myYear = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Month");
+            int myMonth = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter Day");
+            int myDay = Convert.ToInt32(Console.ReadLine());
+            Birthday myBirthday = new Birthday(myYear, myMonth, myDay);
+            //Console.WriteLine(myBirthday.CalculateAge() ); 
+            myBirthday.Validate();
+            Console.ReadLine();
 
-        
             Student s1 = new Student(1, "VARUN", "RASTOGI", 9, "BTECH");
             ShowDetails(s1);
             Console.ReadLine();
